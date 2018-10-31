@@ -24,3 +24,6 @@ Ubuntu 12+
 [Vultr优惠网](https://www.vultryhw.com/)
 
 [搬瓦工优惠网](https://www.bwgyhw.com/)
+
+## 客户端下载地址
+https://shadowsocks.org/en/download/clients.html
