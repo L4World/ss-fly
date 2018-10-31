@@ -31,3 +31,9 @@ https://shadowsocks.org/en/download/clients.html (官网需要翻墙)
 https://github.com/shadowsocks/shadowsocks-windows/releases
 - Mac版
 https://github.com/shadowsocks/ShadowsocksX-NG/releases
+- Linux
+https://github.com/shadowsocks/shadowsocks-qt5/wiki/Installation
+- Android
+https://github.com/Jigsaw-Code/outline-client/
+- IOS
+https://github.com/Jigsaw-Code/outline-client/ OR App Store
