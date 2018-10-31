@@ -1,3 +1,4 @@
+@[toc]
 一键脚本安装shadowsocks/shadowsocksR/V2Ray + 开启bbr
 ---
 
@@ -27,5 +28,5 @@ Ubuntu 12+
 
 ## 客户端下载地址
 https://shadowsocks.org/en/download/clients.html (官网需要翻墙)
-# windows版
+### windows版
 https://github.com/shadowsocks/shadowsocks-windows/releases
