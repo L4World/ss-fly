@@ -3,7 +3,6 @@
 
 一键脚本搭建shadowsocks/shadowsocksR/V2Ray + 设置开启自启动 + 升级内核&开启bbr加速。
 
-@[toc]
 ## 教程如何访问
 因为这个脚本，[flyzy小站](https://www.flyzy2005.com)已经被GFW拉入黑名单了，直接DNS污染了，国内无法访问。
 
@@ -28,5 +27,5 @@ Ubuntu 12+
 
 ## 客户端下载地址
 https://shadowsocks.org/en/download/clients.html (官网需要翻墙)
-### windows版
+-### windows版
 https://github.com/shadowsocks/shadowsocks-windows/releases
