@@ -27,7 +27,7 @@ Ubuntu 12+
 
 ## ss客户端下载地址
 https://shadowsocks.org/en/download/clients.html (官网需要翻墙)
-- windows版
+- Windows版
 https://github.com/shadowsocks/shadowsocks-windows/releases
 - Mac版
 https://github.com/shadowsocks/ShadowsocksX-NG/releases
