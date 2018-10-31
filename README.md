@@ -16,7 +16,7 @@ Debian 7+
 Ubuntu 12+
 
 ## 使用教程
-一键搭建ss/ssr：[一键脚本搭建shadowsocks+开启bbr](https://www.flyzy2005.com/fan-qiang/shadowsocks/install-shadowsocks-in-one-command/) 或[新手向一键脚本搭建SS/SSR服务并开启BBR加速](https://segmentfault.com/a/1190000015243145?utm_source=tag-newest)
+一键搭建ss/ssr：[一键脚本搭建shadowsocks+开启bbr](https://www.flyzy2005.com/fan-qiang/shadowsocks/install-shadowsocks-in-one-command/) 或 [新手向一键脚本搭建SS/SSR服务并开启BBR加速](https://segmentfault.com/a/1190000015243145?utm_source=tag-newest)
 
 一键搭建V2Ray：[一键脚本搭建V2Ray+配置与优化](https://www.flyzy2005.com/v2ray/how-to-build-v2ray/)
 
