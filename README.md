@@ -25,7 +25,9 @@ Ubuntu 12+
 
 [搬瓦工优惠网](https://www.bwgyhw.com/)
 
-## 客户端下载地址
+## ss客户端下载地址
 https://shadowsocks.org/en/download/clients.html (官网需要翻墙)
 - windows版
 https://github.com/shadowsocks/shadowsocks-windows/releases
+- Mac版
+https://github.com/shadowsocks/ShadowsocksX-NG/releases
